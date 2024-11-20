@@ -10,5 +10,9 @@ tanımla=ateş.et()
 eğer.tıklanırsa"sağa_mause"(ateş.et).oynat(silah.sesi)
 
 
+tanımla=oyun bitti
 
+tanımla=süre
+
+eğer."süre"biterse=yazdır(Oyun Bitti!)
         }
