@@ -1,0 +1,8 @@
+{
+ekranda.goster(MESAJ)
+
+Yazdır(MESAJ)
+
+MESAJ.YAZILDIYSA(YAZDIR(MESAJ_2))
+
+        }
