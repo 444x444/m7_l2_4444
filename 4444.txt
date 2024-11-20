@@ -1,8 +1,14 @@
 {
-ekranda.goster(MESAJ)
 
-Yazdır(MESAJ)
 
-MESAJ.YAZILDIYSA(YAZDIR(MESAJ_2))
+yazdır(İlk Kan Döküldü)
+
+EĞER."İlk Kan Döküldü"YAZILDIYSA(YAZDIR(Takımından Biri Katledildi!) yada (Rakip Katledildi!)
+
+tanımla=ateş.et()
+
+eğer.tıklanırsa"sağa_mause"(ateş.et).oynat(silah.sesi)
+
+
 
         }
